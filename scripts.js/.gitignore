@@ -1,6 +1,6 @@
+node_modules/scripts.json
 node_modules/
-node_modules/
+package.json/scripts.json
 package.json/
-package.json/
-package-lock.json/
+package-lock.json/scripts.json
 package-lock.json/
