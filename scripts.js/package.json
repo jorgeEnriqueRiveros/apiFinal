@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "pg": "^8.11.3"
+  },
+  "name": "apifinalstudents",
+  "version": "1.0.0",
+  "description": "creating apifinalstudents to upload to vercel",
+  "main": "apiFinal.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon apiFinal.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
